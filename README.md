@@ -10,4 +10,4 @@ I used LangChain to manage the pipeline, including document loading, text splitt
 
 Finally, I built an interactive user interface using Gradio, which allows users to upload PDFs and chat with them easily in a web-based application.
 
-Overall, this project demonstrates my understanding of Retrieval-Augmented Generation (RAG), vector databases, and building end-to-end AI applications using local LLMs
+Overall, this project demonstrates my understanding of Retrieval-Augmented Generation (RAG), vector databases, and building end-to-end AI applications using local LLMs.
